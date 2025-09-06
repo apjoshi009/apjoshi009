@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Ajay%20Prakash%20Joshi&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<h3 align="center">🚀 AI & Cloud Enthusiast | ☁️ Salesforce Learner | 🐍 Python Developer</h3>
+<h3 align="center">🚀 AI & Cloud Enthusiast | ☁️ Salesforce Learner</h3>
 
 ---
 
